@@ -305,7 +305,7 @@ body {
 }
 
 .hero-name-red {
-    color: var(--primary-red);
+    color: #E10600 !important;
     display: block;
     font-size: 5.5rem;
     font-weight: 900;
